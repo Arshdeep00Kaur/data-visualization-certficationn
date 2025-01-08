@@ -1,1 +1,1 @@
-# data-visualization-certfication
+# data-visualization-certification
